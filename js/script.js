@@ -6,7 +6,7 @@ const days = document.querySelector('.days .number');
 let secValue = 11;
 let minValue = 2;
 let hourValue = 2;
-let dayValue = 9;
+let dayValue = 4;
 
 const timeFunction = setInterval(() => {
     secValue--;
